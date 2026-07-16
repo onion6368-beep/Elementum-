@@ -1,0 +1,52 @@
+.newsletter-wrapper {
+  background-color: #DCEEDD;
+  padding: 70px 100px;
+  padding-bottom: 30px;
+  text-align: center;
+  position: relative;
+}
+
+.newsletter-inner-wrapper h2 {
+  font-size: 60px;
+  margin-bottom: 15px;
+  font-family: 'Gerbil', sans-serif;
+  color:black;
+}
+
+.newsletter-inner-wrapper p {
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 30px;
+  font-family: 'Satoshi', sans-serif;
+}
+
+.subscribe-btn {
+  background-color: #111;
+  color: #fff;
+  border: none;
+  padding: 15px 35px;
+  border-radius: 30px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.pink-pill{
+  position: absolute;
+  top:150px;
+  right: 50px;
+  width: 100px;
+  z-index: 0;
+}
+.snake-line1{
+  position: absolute;
+  top:0px;
+  width: 100px;
+  left:400px;
+  z-index: 0;
+}
+.snake-line2{
+  position: absolute;
+  top:0px;
+  width: 100px;
+  left:480px;
+  z-index: 0;
+}

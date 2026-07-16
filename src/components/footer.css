@@ -1,0 +1,36 @@
+.footer {
+  background-color: #DCEEDD;
+  padding: 60px 100px 30px;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #999;
+  padding-top: 40px;
+  margin-bottom: 40px;
+}
+
+.footer-column h3,
+.contact-deets h3 {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.footer-column ul {
+  list-style: none;
+}
+
+.footer-column li,
+.contact-deets p {
+  font-size: 14px;
+  color: black;
+  margin-bottom: 12px;
+  font-family: 'Satoshi', sans-serif;
+}
+
+.footer-copyright {
+  text-align: center;
+  font-size: 13px;
+  color: #555;
+}
