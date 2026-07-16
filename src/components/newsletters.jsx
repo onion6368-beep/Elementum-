@@ -1,6 +1,6 @@
 import './newsletters.css'
 import Pinkpill from '../assets/Ellipse 739.png'
-import line from '../assets/vector 2519.png'
+import line from '../assets/Vector 2519.png'
 
 function NewsLetter(){
     return(
