@@ -9,7 +9,7 @@ import FeatureBlock from './components/features'
 import OfferList from './components/offerlist'
 import Testimonies from './components/testimony'
 import NewsLetter from './components/newsletters'
-import Footer from './components/Footer'
+import Footer from './components/footer'
 import bigline from './assets/Vector 2517.png'
 
 function App() {
