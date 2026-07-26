@@ -71,3 +71,20 @@
   padding: 2px 12px;
   border-radius: 50px;
 }
+@media (max-width: 768px) {
+  .testimony {
+    padding: 40px 24px;
+  }
+  .testimony h2 {
+    font-size: 26px;
+  }
+  .testimony-bubble {
+    padding: 30px 25px;
+    max-width: 100%;
+    font-size: 14px;
+  }
+  .avatar-scatter,
+  .zigzag-test {
+    display: none;
+  }
+}

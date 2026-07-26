@@ -81,3 +81,19 @@
   width: 80px;
   z-index: 0;
 }
+@media (max-width: 768px) {
+  .hero {
+    padding: 40px 24px;
+  }
+  .hero h1 {
+    font-size: 36px;
+  }
+  .hero p {
+    font-size: 14px;
+    max-width: 100%;
+  }
+  .zigzag-hero,
+  .pill-hero {
+    display: none;
+  }
+}

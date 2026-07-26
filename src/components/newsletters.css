@@ -50,3 +50,23 @@
   left:480px;
   z-index: 0;
 }
+@media (max-width: 768px) {
+  .newsletter-wrapper {
+    padding: 50px 24px 30px;
+  }
+  .newsletter-inner-wrapper h2 {
+    font-size: 32px;
+  }
+  .newsletter-inner-wrapper p {
+    font-size: 14px;
+  }
+  .subscribe-btn {
+    padding: 14px 28px;
+    font-size: 14px;
+  }
+  .pink-pill,
+  .snake-line1,
+  .snake-line2 {
+    display: none;
+  }
+}

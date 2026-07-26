@@ -61,3 +61,35 @@
   width: 500px;
   z-index: 0;
 }
+@media (max-width: 768px) {
+  .offer-list {
+    padding: 40px 24px;
+  }
+
+  .offer-list h2 {
+    font-size: 32px;
+    max-width: 100%;
+  }
+
+  .offer-row {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    padding: 20px 0;
+  }
+
+  .offer-label {
+    flex-basis: 100%;
+  }
+
+  .offer-title {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .zigzag-offer,
+  .big-line {
+    display: none;
+  }
+}

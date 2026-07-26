@@ -22,3 +22,11 @@
   cursor: pointer;
   font-family: 'Satoshi', sans-serif;
 }
+@media (max-width: 768px) {
+  .navbar {
+    padding: 20px 24px;
+  }
+  .nav-links {
+    display: none;
+  }
+}

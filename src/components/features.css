@@ -64,3 +64,32 @@
   width: 1000px;
   z-index: -1;
 }
+@media (max-width: 768px) {
+  .feature-block,
+  .feature-block.reverse {
+    flex-direction: column;
+    padding: 40px 24px;
+    gap: 30px;
+    text-align: center;
+  }
+  .feature-img img {
+    width: 200px;
+    height: 200px;
+  }
+  .feature-text {
+    text-align: center;
+  }
+  .feature-text h2 {
+    font-size: 28px;
+  }
+  .feature-text p {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .zigzag-feature,
+  .big-line2 {
+    display: none;
+  }
+  
+}
