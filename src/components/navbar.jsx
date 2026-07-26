@@ -8,7 +8,7 @@ function Navbar(){
                 <li>Home</li>
                 <li>Studio</li>
                 <li>Services</li>
-                <li>contacts</li>
+                <li>Contacts</li>
                 <li>FAQS</li>
             </ul>
             <div className="menu-icon">☰</div>
