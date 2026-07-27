@@ -116,4 +116,5 @@ code {
 html, body {
   background-color: #ffffff;
   color: #000000;
+  overflow-x:hidden;
 }
